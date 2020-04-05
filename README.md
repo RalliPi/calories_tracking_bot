@@ -1,4 +1,4 @@
-# calories_tracking_bot
+# Calories tracking telegram bot
 a simpe telegram bot that allows you to track your calorie intake.
 
 Guide on how to get this running and build your own calories tracking bot:
