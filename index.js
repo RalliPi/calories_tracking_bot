@@ -7,6 +7,7 @@ const isToday = (someDate) => {
     return someDate.getDate() == today.getDate() && someDate.getMonth() == today.getMonth() && someDate.getFullYear() == today.getFullYear()
 }
 
+//replace the token with your own token. The one in this file is no longer valid.
 const bot = new Telegraf("1173992721:AAFpmymA8BzVaLGWNFA9OQO18Ijg2LV6ZdM")
 bot.start((ctx) => {
     calDB.push({
