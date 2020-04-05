@@ -1,0 +1,21 @@
+{
+  "name": "caloriebot",
+  "version": "1.0.0",
+  "description": "very simple caloei tracking telegram bot. (Tutorial how to build it on https://gymconsole.app/blog )",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "calorie",
+    "track"
+  ],
+  "author": "Ralf Pitter",
+  "license": "ISC",
+  "dependencies": {
+    "telegraf": "^3.37.0"
+  }
+}
